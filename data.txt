@@ -1,4 +1,4 @@
-Mahender Kumar,mahender.codedrill@gmail.com,22
-Sagar,sagar.codedrill@gmail.com,23
+Mahender Kumar,mahender@gmail.com,22
+Sagar,sagar@gmail.com,23
 Sohan,Sohan@gmail.com,26
-Arpan,arpan.codedrill@gmail.com,26
+Arpan,arpan@gmail.com,26
